@@ -19,7 +19,13 @@
 2. Anteportada 
 3. Indice
 4. Objetivos
-5. Contenido
+5. Contenido wireframes
+6. Primer entrega de la aplicacion
+7. El wireframe 02_login_v2
+8. El wireframe 03_dashboard
+9. El wireframe 04_profile
+10. El wireframe en soporte para desktop
+11. Repositorio: 
 
 # 4.Objetivos
  1. Aprender mas etiquetas
