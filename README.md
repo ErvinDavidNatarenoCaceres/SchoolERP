@@ -34,12 +34,11 @@
 
 
 # 5.Contendido wireframes
-   1.Primera entrega: https://ervindavidnatarenocaceres.github.io/Aplicacion1/
-   2.Segunda entrega: https://ervindavidnatarenocaceres.github.io/Aplicacion2/
-   3.Tercer entrega:  https://ervindavidnatarenocaceres.github.io/Aplicacion3/
-   4.Cuarta entrega:  https://ervindavidnatarenocaceres.github.io/Aplicacion4/
-   
-   
+   1. Primera entrega: https://ervindavidnatarenocaceres.github.io/Aplicacion1/
+   2. Segunda entrega: https://ervindavidnatarenocaceres.github.io/Aplicacion2/
+   3.  Tercer entrega:  https://ervindavidnatarenocaceres.github.io/Aplicacion3/
+   4. Cuarta entrega:  https://ervindavidnatarenocaceres.github.io/Aplicacion4/
 # 6.Objetivos Futuros
 - Poner mas atencion y ser mas creativo en el aspecto de progrmar y ser mas atento en lo del tema de Java ya que es una de mis carreras en la Universidad.
 
+## Terminado
