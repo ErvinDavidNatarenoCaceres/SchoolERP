@@ -34,6 +34,8 @@
 
 
 # 5.Contendido wireframes
+    Primera entrega: https://ervindavidnatarenocaceres.github.io/Aplicacion1/
+   
    
 # 6.Objetivos Futuros
 - Poner mas atencion y ser mas creativo en el aspecto de progrmar y ser mas atento en lo del tema de Java ya que es una de mis carreras en la Universidad.
