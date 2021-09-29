@@ -25,7 +25,7 @@
 8. El wireframe 03_dashboard
 9. El wireframe 04_profile
 10. El wireframe en soporte para desktop
-11. Repositorio: 
+11. Repositorio: https://github.com/ErvinDavidNatarenoCaceres/SchoolERP.git
 
 # 4.Objetivos
  1. Aprender mas etiquetas
