@@ -19,7 +19,6 @@
 2. Anteportada 
 3. Indice
 4. Objetivos
-
 5.Contenido wireframes
 6. Primer entrega de la aplicacion
 7. El wireframe 02_login_v2
