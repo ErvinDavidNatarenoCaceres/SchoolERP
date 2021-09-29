@@ -34,10 +34,10 @@
 
 
 # 5.Contendido wireframes
-   -Primera entrega: https://ervindavidnatarenocaceres.github.io/Aplicacion1/
-   -Segunda entrega: https://ervindavidnatarenocaceres.github.io/Aplicacion2/
-   -Tercer entrega:  https://ervindavidnatarenocaceres.github.io/Aplicacion3/
-   -Cuarta entrega:  https://ervindavidnatarenocaceres.github.io/Aplicacion4/
+   1.Primera entrega: https://ervindavidnatarenocaceres.github.io/Aplicacion1/
+   2.Segunda entrega: https://ervindavidnatarenocaceres.github.io/Aplicacion2/
+   3.Tercer entrega:  https://ervindavidnatarenocaceres.github.io/Aplicacion3/
+   4.Cuarta entrega:  https://ervindavidnatarenocaceres.github.io/Aplicacion4/
    
    
 # 6.Objetivos Futuros
